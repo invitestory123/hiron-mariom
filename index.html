@@ -53,6 +53,23 @@
         visibility: hidden !important;
         pointer-events: none !important;
       }
+
+      /* Fix cursive font flourishes getting cropped from top and bottom on mobile */
+      .font-script {
+        line-height: 1.38 !important;
+        padding-top: 0.15em !important;
+        padding-bottom: 0.22em !important;
+        overflow: visible !important;
+      }
+
+      .text-outline-gold {
+        overflow: visible !important;
+        line-height: 1.25 !important;
+      }
+
+      h1, h2, h3 {
+        overflow: visible !important;
+      }
     </style>
 
     <script src="./editable/wedding-data.js"></script>
