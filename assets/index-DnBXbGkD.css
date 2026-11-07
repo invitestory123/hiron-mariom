@@ -3,3 +3,4 @@
 .font-arabic{font-family:Amiri,Scheherazade New,Traditional Arabic,serif!important;letter-spacing:0!important;word-spacing:normal!important;line-height:1.6!important}
 
 .font-script{line-height:1.35!important;padding-top:0.15em!important;padding-bottom:0.2em!important;overflow:visible!important}.text-outline-gold{overflow:visible!important;line-height:1.25!important}h1,h2,h3{overflow:visible!important}
+.hero-couple-name{font-size:clamp(4.25rem,20vw,6.5rem)!important;line-height:1.25!important;padding-top:0.1em!important;padding-bottom:0.15em!important;overflow:visible!important;display:block!important;text-align:center!important}.text-\\[16vw\\]{font-size:16vw}.text-\\[18vw\\]{font-size:18vw}
