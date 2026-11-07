@@ -52,5 +52,6 @@ window.WEDDING_DATA = {
     diya: "./editable/assets/diya.png",
     mandala: "./editable/assets/mandala.png",
     footerGarland: "./editable/assets/footer-garland.png",
+    bgm: "./editable/assets/bgm.mp3",
   },
 };
