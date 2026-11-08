@@ -28,7 +28,7 @@ window.WEDDING_DATA = {
   },
 
   venue: {
-    name: '"Binapani" Anusthan Bhaban',
+    name: 'Binapani Anusthan Bhaban',
     address: "Near Yatrik Club, Police Line, Suri, Birbhum, West Bengal 731101",
     mapsQuery: "WG2J+HQ6, Birbhum Police Line, Suri, West Bengal 731101",
   },
@@ -39,7 +39,7 @@ window.WEDDING_DATA = {
       icon: "heart",
       date: "Sunday, 17th January 2027",
       time: "12:00 Noon",
-      venue: '"Binapani" Anusthan Bhaban, Suri, Birbhum',
+      venue: 'Binapani Anusthan Bhaban, Suri, Birbhum',
       note: "With the blessings of Allah and our families, please join us to celebrate the auspicious wedding reception of Md. Hiran & Mariom Ferdousi.",
     },
   ],
